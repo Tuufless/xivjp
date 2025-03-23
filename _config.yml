@@ -3,8 +3,8 @@ remote_theme: just-the-docs/just-the-docs@v0.9.0
 plugins:
   - jekyll-seo-tag
 
-title: "FFXIV Elemental Raid Macros"
-description: "Final Fantasy XIV Elemental DC Raid Macros"
+title: "XIVJP"
+description: "Final Fantasy XIV Raid Macros for JP"
 
 favicon_ico: "favicon.ico"
 
@@ -14,7 +14,7 @@ aux_links:
   "Elemental DC Raid Macros Discord":
     - "https://discord.gg/WEzhVHwAU6"
   "Github":
-    - "https://github.com/Tuufless/FFXIV-Elemental-raid-macros"
+    - "https://github.com/Tuufless/xivjp"
 
 aux_links_new_tab: true
 
@@ -33,9 +33,6 @@ collections:
   ultimates:
     permalink: "/:collection/:path/"
     output: true
-  static:
-    permalink: "/:collection/:path/"
-    output: true
 
 # The order and names here determines the order in the sidebar
 just_the_docs:
@@ -44,7 +41,5 @@ just_the_docs:
       name: 7.1 Crossroads
     ultimates:
       name: Ultimates
-    static:
-      name: Static
     raids:
       name: Archives

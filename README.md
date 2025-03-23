@@ -1,7 +1,7 @@
-# FFXIV Elemental Raid Macros
+# XIVJP
 
 Hello! This is the underlying Github repository for the
-[FFXIV Elemental Raid Macros](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/) site.
+[XIVJP](https://tuufless.github.io/xivjp/) site.
 
 The website is generated via [Jekyll](https://jekyllrb.com/) using [Just-The-Docs](https://just-the-docs.github.io/just-the-docs/)
 as a theme.
@@ -40,6 +40,6 @@ by navigating to `http://localhost:4000/`.
 
 ## Assets
 
-Image assets should be placed in the `assets` directory- this is done in order
+Image assets should be placed in the `images` directory- this is done in order
 to support future localisation efforts, as relative image paths from the
 various pages don't seem to work well.

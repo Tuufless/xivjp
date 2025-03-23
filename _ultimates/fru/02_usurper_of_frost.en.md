@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Usurper of Frost
-parent: Lv 100. FRU (Mana)
+parent: Lv 100. FRU
 nav_order: 2
 has_children: false
 has_toc: false
@@ -52,7 +52,7 @@ Eden's Verse: Refulgence (Savage).
       <p><em>(In this example, the circles spawn on cardinals.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_00.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_00.jpg">
     </td>
   </tr>
   <tr>
@@ -71,11 +71,11 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_axe.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_axe.jpg">
       <p style="text-align:center">Use the outer ring on the floor.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_scythe.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_scythe.jpg">
       <p style="text-align:center">Use the star/shuriken in the center of the 
       floor.</p>
     </td>
@@ -104,10 +104,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_01a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_01b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01b.jpg">
     </td>
   </tr>
   <tr>
@@ -120,10 +120,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_01c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01c.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_01d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01d.jpg">
     </td>
   </tr>
   <tr>
@@ -147,10 +147,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -163,10 +163,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_03a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_03b.jpg">
     </td>
   </tr>
   <tr>
@@ -185,10 +185,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_04a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -200,10 +200,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_05a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_05b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_05b.jpg">
     </td>
   </tr>
   <tr>
@@ -215,10 +215,10 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_06a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_06a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_06b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_06b.jpg">
     </td>
   </tr>
 </table>
@@ -249,7 +249,7 @@ the puddles directly behind the Usurper of Frost.
       Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
     </td>
   </tr>
   <tr>
@@ -259,7 +259,7 @@ the puddles directly behind the Usurper of Frost.
       directly in front and behind the Usurper of Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07a.jpg">
     </td>
   </tr>
   <tr>
@@ -269,7 +269,7 @@ the puddles directly behind the Usurper of Frost.
       directly in front and behind the Usurper of Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07b.jpg">
     </td>
   </tr>
   <tr>
@@ -283,7 +283,7 @@ the puddles directly behind the Usurper of Frost.
       movement will be slanted.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_aa_07b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07b.jpg">
     </td>
   </tr>
 </table>
@@ -306,7 +306,7 @@ Oracle's Reflection to prepare for the next mechanic.
       started directly opposite the boss earlier).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07.jpg">
     </td>
   </tr>
   <tr>
@@ -329,10 +329,10 @@ Oracle's Reflection to prepare for the next mechanic.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_08a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_08a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_08b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_08b.jpg">
     </td>
   </tr>
   <tr>
@@ -370,7 +370,7 @@ cardinal/intercardinal positions.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/mirror_mirror_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_01.jpg">
     </td>
   </tr>
   <tr>
@@ -398,7 +398,7 @@ cardinal/intercardinal positions.
       intercardinal marker.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/mirror_mirror_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_02.jpg">
     </td>
   </tr>
   <tr>
@@ -410,7 +410,7 @@ cardinal/intercardinal positions.
       group with the cone AoEs.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/mirror_mirror_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_03.jpg">
     </td>
   </tr>
   <tr>
@@ -438,10 +438,10 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/mirror_mirror_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_04b.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/mirror_mirror_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_04a.jpg">
     </td>
   </tr>
 </table>
@@ -469,7 +469,7 @@ party.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/chains_of_everlasting_light.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/chains_of_everlasting_light.png">
     </td>
     <td>
       <p><b>Chains of Everlasting Light</b></p>
@@ -485,7 +485,7 @@ party.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/curse_of_everlasting_light.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/curse_of_everlasting_light.png">
     </td>
     <td>
       <p><b>Curse of Everlasting Light</b></p>
@@ -500,7 +500,7 @@ party.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/lightsteeped.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/lightsteeped.png">
     </td>
     <td>
       <p><b>Lightsteeped</b></p>
@@ -518,7 +518,7 @@ party.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/the_weight_of_light.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/the_weight_of_light.png">
     </td>
     <td>
       <p><b>The Weight of Light</b></p>
@@ -545,7 +545,7 @@ party.
       with tanks and healers North, and DPS South.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_01.jpg">
     </td>
   </tr>
   <tr>
@@ -560,7 +560,7 @@ party.
       <p>Six towers will also spawn around the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_02.jpg">
     </td>
   </tr>
   <tr>
@@ -569,7 +569,7 @@ party.
       of the center, and prepare to drop five puddles, one after the other.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_03.jpg">
     </td>
   </tr>
   <tr>
@@ -580,7 +580,7 @@ party.
       instead.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_04.jpg">
     </td>
   </tr>
   <tr>
@@ -599,7 +599,7 @@ party.
       in the center.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_05.jpg">
     </td>
   </tr>
   <tr>
@@ -611,7 +611,7 @@ party.
       Hunger)</em> before collapsing with their group.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_06.jpg">
     </td>
   </tr>
   <tr>
@@ -624,7 +624,7 @@ party.
       resolved.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_07.jpg">
     </td>
   </tr>
   <tr>
@@ -636,7 +636,7 @@ party.
       <p>A 4-man tower will spawn in the center of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_08.jpg">
     </td>
   </tr>
   <tr>
@@ -645,7 +645,7 @@ party.
       <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_09.jpg">
     </td>
   </tr>
   <tr>
@@ -659,7 +659,7 @@ party.
       tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_10.jpg">
     </td>
   </tr>
   <tr>
@@ -675,7 +675,7 @@ party.
       <p><em>(In this example, the boss is doing pair stacks.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
     </td>
   </tr>
   <tr>
@@ -686,15 +686,15 @@ party.
       <p>Spread out in your standard clock positions to resolve this.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_12.jpg">
     </td>
   </tr>
 </table>
 
 The tower positions can be summarized as follows:
 
-![]({{site.baseurl}}/images/ultimates/fru_mana/02/lr_44_east.jpg)
-*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru_mana/02/lr_44_east.jpg))*
+![]({{site.baseurl}}/images/ultimates/fru/02/lr_44_east.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru/02/lr_44_east.jpg))*
 
 A few seconds later, the boss will start to cast *Absolute Zero*. This will
 serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
@@ -727,7 +727,7 @@ This is the mini "transition" phase.
       <p>Note the spread positions here are different.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_01.jpg">
     </td>
   </tr>
   <tr>
@@ -743,7 +743,7 @@ This is the mini "transition" phase.
       the Crystal of Light in their sector first.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_02.jpg">
     </td>
   </tr>
   <tr>
@@ -767,7 +767,7 @@ This is the mini "transition" phase.
       alterate between left and right.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_03.jpg">
     </td>
   </tr>
   <tr>
@@ -776,7 +776,7 @@ This is the mini "transition" phase.
       right, facing in).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_04.jpg">
     </td>
   </tr>
   <tr>
@@ -785,7 +785,7 @@ This is the mini "transition" phase.
       Light will tether to the nearest player.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_05.jpg">
     </td>
   </tr>
   <tr>
@@ -795,7 +795,7 @@ This is the mini "transition" phase.
       <p>Stepping into these puddles will inflict a lethal Bleed on you.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_06.jpg">
     </td>
   </tr>
   <tr>
@@ -806,7 +806,7 @@ This is the mini "transition" phase.
       <b>still need to be properly baited</b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/crystals_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_07.jpg">
     </td>
   </tr>
 </table>
@@ -992,7 +992,7 @@ Gaia and turning her into the Oracle of Darkness.
       tethers.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_tether_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_tether_faq.jpg">
     </td>
   </tr>
 </table>

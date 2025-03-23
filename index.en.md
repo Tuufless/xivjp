@@ -5,18 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-# FFXIV Elemental Raid Macros
+# XIVJP
 
-This repository is a collection of macros (and my notes) often encountered in
-the Elemental Data Center (DC).
+Welcome to XIVJP! Here, you will find English resources for the strategies used
+in the FFXIV Japanese Datacenters, Elemental, Gaia, Mana, and Meteor.
 
-Elemental is a Japanese FFXIV data center; however, it is home to servers with
-high populations from other countries such as Tonberry or Kujata. That being
-said, it is still ultimately a Japanese DC, so it generally follows
-**Japanese** strategies. Keep that in mind that when watching (English)
-videos/reading guides- there may be differences.
-
----
+Keep that in mind when looking up other English videos/guides as there will
+likely be differences.
 
 ## Current content (Patch 7.1)
 
@@ -51,7 +46,7 @@ risk.)*
 Download and install the **Macro Mate** plugin, select "New" then
 "Subscription", and enter the following URL:
 ```
-https://raw.githubusercontent.com/Tuufless/FFXIV-Elemental-Raid-Macros/main/macromate.yaml
+https://raw.githubusercontent.com/Tuufless/XIVJP/main/macromate.yaml
 ```
 
 ---
@@ -62,6 +57,3 @@ This page is built from [an underlying Github repository](https://github.com/Tuu
 
 Please feel free to make a pull request if you see any errors, or if you'd like
 to contribute!
-
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Fatebreaker
-parent: Lv 100. FRU (Mana)
+parent: Lv 100. FRU
 nav_order: 1
 has_children: false
 has_toc: false
@@ -24,7 +24,7 @@ shortly in the middle of *Utopian Sky*.
       are resolved.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_01.jpg">
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ shortly in the middle of *Utopian Sky*.
       <p><b>2.</b> The boss cleaves where each player is standing.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_02.jpg">
     </td>
   </tr>
   <tr>
@@ -49,14 +49,14 @@ shortly in the middle of *Utopian Sky*.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_03a.jpg">
       <ul>
         <li>Everybody rotates clockwise.</li>
         <li>H1, H2, ST, D3, D4 pulls back to avoid clipping.</li>
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_03b.jpg">
       <ul>
         <li>Tanks + Healers rotate anti-clockwise.</li>
         <li>DPS rotate clockwise.</li>
@@ -70,7 +70,7 @@ shortly in the middle of *Utopian Sky*.
       two sets of cleaves.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_04.jpg">
     </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ shortly in the middle of *Utopian Sky*.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/cyclonic_break_05.jpg">
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ shortly in the middle of *Utopian Sky*.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/powder_mark_trail.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/powder_mark_trail.png">
     </td>
     <td>
       <p><b>Powder Mark Trail</b></p>
@@ -125,7 +125,7 @@ attention to this colour.**
       positions, but <em>only visible</em> to players nearby.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_01.jpg">
     </td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@ attention to this colour.**
       leaving two opposite sectors safe.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_02.jpg">
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ attention to this colour.**
       gunblades.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_03.jpg">
     </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ attention to this colour.**
       H2 who are opposite move in. The sectors with D2 and D3 are safe.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_04.jpg">
     </td>
   </tr>
   <tr>
@@ -187,8 +187,8 @@ attention to this colour.**
       tanks.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_05.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_05a.jpg">
     </td>
   </tr>
   <tr>
@@ -202,7 +202,7 @@ attention to this colour.**
       will glow either red or blue. Pay attention to this clone's colour.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_06.jpg">
     </td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ attention to this colour.**
       the player dies.).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_07.jpg">
     </td>
   </tr>
   <tr>
@@ -243,7 +243,7 @@ attention to this colour.**
       <em>(This </em>cannot<em> be nullified by anti-knockback abilities)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_08.jpg">
     </td>
   </tr>
   <tr>
@@ -253,7 +253,7 @@ attention to this colour.**
       will have larger AoEs.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_09.jpg">
     </td>
   </tr>
   <tr>
@@ -261,7 +261,7 @@ attention to this colour.**
       <p><b>15.</b> Finally, the two Prey targets will resolve their stacks.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/utopian_sky_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_10.jpg">
     </td>
   </tr>
 </table>
@@ -286,7 +286,7 @@ priorities.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_01.jpg">
     </td>
   </tr>
   <tr>
@@ -299,7 +299,7 @@ priorities.
       <p><em>(In this example, the boss and tether glow blue.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_02.jpg">
     </td>
   </tr>
   <tr>
@@ -312,7 +312,7 @@ priorities.
       <p><em>(In this example, the clone and tether glow blue.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_03.jpg">
     </td>
   </tr>
   <tr>
@@ -326,7 +326,7 @@ priorities.
       <p><em>(In this example, the clone and tether glow red.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_04.jpg">
     </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@ priorities.
       <p><em>(In this example, the clone and tether glow red.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
     </td>
   </tr>
   <tr>
@@ -360,7 +360,7 @@ priorities.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_06.jpg">
     </td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@ priorities.
       <p>After this resolves, the first and third tethers swap positions.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_07.jpg">
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@ priorities.
       <p>After this resolves, the second and fourth tethers swap positions.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_08.jpg">
     </td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ priorities.
       <p><em>(In this example, we resolve a Fire tether.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_09.jpg">
     </td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@ priorities.
       <p><em>(In this example, we resolve a Fire tether.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/fall_of_faith_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_10.jpg">
     </td>
   </tr>
 </table>
@@ -430,7 +430,7 @@ This is the last mechanic of the phase.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/towers_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_01.jpg">
     </td>
   </tr>
   <tr>
@@ -445,7 +445,7 @@ This is the last mechanic of the phase.
       the middle tower, and D3 goes to the South tower.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/towers_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_02.jpg">
     </td>
   </tr>
   <tr>
@@ -462,10 +462,10 @@ This is the last mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/towers_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_03a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/towers_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_03b.jpg">
     </td>
   </tr>
   <tr>
@@ -474,7 +474,7 @@ This is the last mechanic of the phase.
       the towers.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/towers_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_04.jpg">
     </td>
   </tr>
 </table>

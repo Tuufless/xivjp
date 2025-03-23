@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Gaia and Shiva
-parent: Lv 100. FRU (Mana)
+parent: Lv 100. FRU
 nav_order: 4
 has_children: false
 has_toc: false
@@ -39,7 +39,7 @@ to get practice in.)
       Frost spawned.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_00.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_00.jpg">
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ to get practice in.)
       each player was standing. Simply move away when the boss transforms.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_01.jpg">
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ Both bosses will cast *Darklit Dragonsong*.
       <p>One player will have <em>both</em> tethers <em>and</em> Water.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_01.jpg">
     </td>
   </tr>
 </table>
@@ -104,7 +104,7 @@ To summarise, the tethered healer will always go North. For everybody else:
       North tower, and the south-most tether players go to the South tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02a.jpg">
     </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ To summarise, the tethered healer will always go North. For everybody else:
       DPS swap positions.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ To summarise, the tethered healer will always go North. For everybody else:
       tethered DPS swap positions.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02c.jpg">
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ To summarise, the tethered healer will always go North. For everybody else:
       formation with the non-tethered players between the two towers.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03a.jpg">
     </td>
   </tr>
 </table>
@@ -151,7 +151,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
       the non-tether Water (H2) and their partner (D3) switch places.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03b.jpg">
     </td>
   </tr>
 </table>
@@ -166,7 +166,7 @@ We can now continue with the mechanic.
       closest players- these should be the four non-tethered players.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_04.jpg">
     </td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ We can now continue with the mechanic.
       danger zone is marked in dark red.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_05.jpg">
     </td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ We can now continue with the mechanic.
       <p>Ideally, she should not move much.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_06.jpg">
     </td>
   </tr>
   <tr>
@@ -203,7 +203,7 @@ We can now continue with the mechanic.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_07.jpg">
     </td>
   </tr>
   <tr>
@@ -223,7 +223,7 @@ We can now continue with the mechanic.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
     </td>
   </tr>
 </table>
@@ -249,7 +249,7 @@ Morn* into *Morn Afah*, which is a party stack.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_morn_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
     </td>
   </tr>
 </table>
@@ -289,7 +289,7 @@ anti-clockwise.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/wyrmclaw.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/wyrmclaw.png">
     </td>
     <td>
       <p><b>Wyrmclaw</b></p>
@@ -310,7 +310,7 @@ anti-clockwise.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/wyrmfang.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/wyrmfang.png">
     </td>
     <td>
       <p><b>Wyrmfang</b></p>
@@ -330,7 +330,7 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/dark_aero.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/dark_aero.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Aero III</b></p>
@@ -342,7 +342,7 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/quietus.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/quietus.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Quietus</b></p>
@@ -378,7 +378,7 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_01a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_01a.jpg">
     </td>
   </tr>
   <tr>
@@ -401,7 +401,7 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
       Dark Eruption <em>player goes NW, and all other blue players move SE.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_01b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_01b.jpg">
     </td>
   </tr>
 </table>
@@ -420,7 +420,7 @@ the sea of mechanics.
       together closely, with the red Aero closest to the edge of the arena.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_02.jpg">
     </td>
   </tr>
   <tr>
@@ -445,7 +445,7 @@ the sea of mechanics.
       sure they make it to the upcoming stack in time.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_03.jpg">
     </td>
   </tr>
   <tr>
@@ -465,7 +465,7 @@ the sea of mechanics.
       flower petal to the North side after the hourglass explodes.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_04.jpg">
     </td>
   </tr>
   <tr>
@@ -486,7 +486,7 @@ the sea of mechanics.
       <p><b>Note which side the telegraph started on (East or West).</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_05.jpg">
     </td>
   </tr>
   <tr>
@@ -498,7 +498,7 @@ the sea of mechanics.
       <p>The objective is to end up on the side where the line originated from.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_06.jpg">
     </td>
   </tr>
   <tr>
@@ -511,7 +511,7 @@ the sea of mechanics.
       taking the west-most.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_07.jpg">
     </td>
   </tr>
   <tr>
@@ -524,7 +524,7 @@ the sea of mechanics.
       to <em>quickly</em> cleanse their debuffs to make it back in time.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_08.jpg">
     </td>
   </tr>
   <tr>
@@ -535,7 +535,7 @@ the sea of mechanics.
       <em>last chance</em> to get to the safe side in time.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_09.jpg">
     </td>
   </tr>
   <tr>
@@ -546,7 +546,7 @@ the sea of mechanics.
       damage.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
     </td>
   </tr>
   <tr>
@@ -561,7 +561,7 @@ the sea of mechanics.
       <p>Everybody records their position in this formation.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_12.jpg">
     </td>
   </tr>
   <tr>
@@ -584,7 +584,7 @@ the sea of mechanics.
       spread on the waymarks.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
     </td>
   </tr>
   <tr>
@@ -599,7 +599,7 @@ the sea of mechanics.
       <b>Everybody also use <em>Arm's Length/Surecast</em></b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_14.jpg">
     </td>
   </tr>
   <tr>
@@ -616,7 +616,7 @@ the sea of mechanics.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_15.jpg">
     </td>
   </tr>
   <tr>
@@ -626,7 +626,7 @@ the sea of mechanics.
       <p>The party will get knocked back half the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_16.jpg">
     </td>
   </tr>
 </table>
@@ -644,7 +644,7 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
       <p>This time, we have the ST split off and take it solo.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_morn_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_02.jpg">
     </td>
   </tr>
 </table>

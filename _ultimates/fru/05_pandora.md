@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Pandora
-parent: Lv 100. FRU (Mana)
+parent: Lv 100. FRU
 nav_order: 5
 has_children: false
 has_toc: false
@@ -32,7 +32,7 @@ both tanks).
       this formation.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_01.jpg">
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ both tanks).
       (marked in green), and orient your camera to face them.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_02.jpg">
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ both tanks).
       party will dodge to the right later in Steps 5 and 7.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_03.jpg">
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ both tanks).
       <p>Stand a bit away from the diamond, and prepare to move in.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_04.jpg">
     </td>
   </tr>
   <tr>
@@ -80,8 +80,8 @@ both tanks).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_05.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_single_dodge_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_single_dodge_05.jpg">
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ both tanks).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_06.jpg">
     </td>
   </tr>
   <tr>
@@ -113,8 +113,8 @@ both tanks).
       Morn</em> during this dodge.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_07.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_single_dodge_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_single_dodge_07.jpg">
     </td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ both tanks).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_08.jpg">
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ both tanks).
       towards (and the MT is free to dodge anywhere within the diamond).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_09.jpg">
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ both tanks).
       <p><b>10.</b> Wait for one more set of line AoEs to resolve.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_10.jpg">
     </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ both tanks).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_11.jpg">
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ both tanks).
       right) with a stack AoE.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_12.jpg">
     </td>
   </tr>
 </table>
@@ -188,7 +188,7 @@ This is the most complex mechanic of the phase.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_01.jpg">
     </td>
   </tr>
   <tr>
@@ -227,10 +227,10 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -240,10 +240,10 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03b.jpg">
     </td>
   </tr>
   <tr>
@@ -266,10 +266,10 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -282,10 +282,10 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_05b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05b.jpg">
     </td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ This is the most complex mechanic of the phase.
       <p><b>18.</b> The two remaining DPS stay put for the third tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_06.jpg">
     </td>
   </tr>
 </table>
@@ -320,7 +320,7 @@ damage.
       debuff (depending on which line hit them).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/polarizing_strikes_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_01.jpg">
     </td>
   </tr>
   <tr>
@@ -334,7 +334,7 @@ damage.
       needs to switch sides.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/polarizing_strikes_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_02.jpg">
     </td>
   </tr>
   <tr>
@@ -346,7 +346,7 @@ damage.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/polarizing_strikes_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_03.jpg">
     </td>
   </tr>
 </table>
@@ -385,7 +385,7 @@ she does so, *immediately* LB3 (or it will not resolve before the enrage).
       even impossible in extreme cases.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_faq_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_01.jpg">
     </td>
   </tr>
 </table>
@@ -424,7 +424,7 @@ she does so, *immediately* LB3 (or it will not resolve before the enrage).
       locked.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_faq_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_01.jpg">
     </td>
   </tr>
   <tr>
@@ -441,7 +441,7 @@ she does so, *immediately* LB3 (or it will not resolve before the enrage).
       dodging the first two Exalines.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_faq_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_02.jpg">
     </td>
   </tr>
 </table>

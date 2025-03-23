@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Oracle of Darkness
-parent: Lv 100. FRU (Mana)
+parent: Lv 100. FRU
 nav_order: 3
 has_children: false
 has_toc: false
@@ -28,7 +28,7 @@ out. However, you only need to check a limited set of debuffs.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_blizzard.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_blizzard.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Blizzard III</b></p>
@@ -40,7 +40,7 @@ out. However, you only need to check a limited set of debuffs.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_fire.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_fire.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Fire III</b></p>
@@ -62,7 +62,7 @@ out. However, you only need to check a limited set of debuffs.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/unholy_darkness.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/unholy_darkness.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Unholy Darkness</b></p>
@@ -77,8 +77,8 @@ out. However, you only need to check a limited set of debuffs.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/spell_in_waiting_return.png">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/return.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/spell_in_waiting_return.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/return.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Return</b></p>
@@ -106,7 +106,7 @@ where players record their positions.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_eruption.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_eruption.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Eruption</b></p>
@@ -124,7 +124,7 @@ where players record their positions.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_water.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_water.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Water III</b></p>
@@ -143,7 +143,7 @@ where players record their positions.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/shadoweye.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/shadoweye.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Shadoweye</b></p>
@@ -283,7 +283,7 @@ Each player is expected to carry a set of macros that do two things:
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_01.jpg">
     </td>
   </tr>
 </table>
@@ -306,7 +306,7 @@ in the center, only moving out to resolve specific debuffs.
       faces towards the outside).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/hourglass_bait.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/hourglass_bait.jpg">
     </td>
   </tr>
 </table>
@@ -335,7 +335,7 @@ spinnning).
       <em>Dark Blizzard III</em>.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_02.jpg">
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@ spinnning).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_03.jpg">
     </td>
   </tr>
   <tr>
@@ -369,7 +369,7 @@ spinnning).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_04.jpg">
     </td>
   </tr>
   <tr>
@@ -385,7 +385,7 @@ spinnning).
       little away from the center</b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_05.jpg">
     </td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@ spinnning).
       <em>Dark Blizzard III</em>.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_06.jpg">
     </td>
   </tr>
   <tr>
@@ -418,7 +418,7 @@ spinnning).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_07.jpg">
     </td>
   </tr>
   <tr>
@@ -434,7 +434,7 @@ spinnning).
       at the NW position, face your character north-west.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_08.jpg">
     </td>
   </tr>
   <tr>
@@ -457,7 +457,7 @@ spinnning).
       <em>Shadoweye</em> attack.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_09.jpg">
     </td>
   </tr>
 </table>
@@ -512,7 +512,7 @@ a tank).
       debuff, so H1 and D1 will be swapping sides.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_00.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_00.jpg">
     </td>
   </tr>
   <tr>
@@ -525,7 +525,7 @@ a tank).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_01.jpg">
     </td>
   </tr>
   <tr>
@@ -540,7 +540,7 @@ a tank).
       around the arena clockwise or anti-clockwise.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02.jpg">
     </td>
   </tr>
   <tr>
@@ -557,7 +557,7 @@ a tank).
       these sectors!)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -579,7 +579,7 @@ a tank).
       group goes SW, and the "base DPS" group goes NE.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02c.jpg">
     </td>
   </tr>
 </table>
@@ -596,34 +596,34 @@ swaps).</p>
 <table>
   <tr>
     <td width="50%" style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex1a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex1a.jpg">
     </td>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex1b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex2a.jpg">
-    </td>
-    <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex2b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex1b.jpg">
     </td>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex3a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex2a.jpg">
     </td>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex3b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex2b.jpg">
     </td>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex4a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex3a.jpg">
     </td>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex4b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex3b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex4a.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_ex4b.jpg">
     </td>
   </tr>
 </table>
@@ -644,7 +644,7 @@ the mechanic.
       Taker</em> in the earlier box formation.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_03.jpg">
     </td>
   </tr>
   <tr>
@@ -652,7 +652,7 @@ the mechanic.
       <p><b>16.</b> The boss's <em>Spirit Taker</em> resolves.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_04.jpg">
     </td>
   </tr>
   <tr>
@@ -667,8 +667,8 @@ the mechanic.
       should stand on the edge of this circle to avoid the center Apocalypse.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_05.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05a.jpg">
     </td>
   </tr>
   <tr>
@@ -678,7 +678,7 @@ the mechanic.
       of six waves.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_06.jpg">
     </td>
   </tr>
   <tr>
@@ -688,7 +688,7 @@ the mechanic.
       <p>Move as soon as the spread AoEs resolve.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_07.jpg">
     </td>
   </tr>
   <tr>
@@ -702,7 +702,7 @@ the mechanic.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_08.jpg">
     </td>
   </tr>
   <tr>
@@ -714,8 +714,8 @@ the mechanic.
       Water III</em> stacks.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_09.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_09a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_09a.jpg">
     </td>
   </tr>
   <tr>
@@ -725,7 +725,7 @@ the mechanic.
       <p>The ST moves out 90 degrees from where the first set of lights pulsed.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_10.jpg">
     </td>
   </tr>
   <tr>
@@ -737,7 +737,7 @@ the mechanic.
       PLD > ST.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">
     </td>
   </tr>
   <tr>
@@ -752,7 +752,7 @@ the mechanic.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_12.jpg">
     </td>
   </tr>
   <tr>
@@ -762,7 +762,7 @@ the mechanic.
       arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
     </td>
   </tr>
   <tr>
@@ -776,7 +776,7 @@ the mechanic.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_14.jpg">
     </td>
   </tr>
 </table>
@@ -807,8 +807,8 @@ must be brought down to under 20.0% HP to advance.
       </ul>
     </td>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_water.png">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/unholy_darkness.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_water.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/unholy_darkness.png">
     </td>
   </tr>
 </table>

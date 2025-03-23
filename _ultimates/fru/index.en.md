@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 100. FRU (Mana)
+title: Lv 100. FRU
 nav_order: 6
 has_children: true
 has_toc: false
@@ -8,8 +8,6 @@ permalink: /ultimates/fru/
 ---
 
 # Futures Rewritten (Ultimate)
-
-I've been PF'ing FRU in Mana, and this goes over the Mana PF strat.
 
 Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5500375/),
 which is basically Lily Doll's original strat, but has P4 and P5 replaced with
@@ -44,13 +42,13 @@ Here are some clear PoVs that I've been collecting.
 
 ## Markers
 
-![]({{site.baseurl}}/images/ultimates/fru_mana/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/fru/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
-  "Name":"FRU (JP)",
+  "Name":"FRU",
   "MapID":1006,
   "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
   "B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
